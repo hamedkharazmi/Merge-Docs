@@ -1,3 +1,4 @@
-pip install comtypes
-pip install PyPDF2
-pip install python-docx
+python_docx==0.8.11
+comtypes==1.1.10
+docx==0.2.4
+PyPDF2==1.26.0
